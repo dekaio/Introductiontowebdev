@@ -1,1 +1,1 @@
-A set of very basic HTML projects for learning web development
+A set of basic projects on web development using HTML, CSS and Javascript based on Udemy course by FrameworkTV
